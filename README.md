@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Metrics](/General.svg)
 <!--
 **CECoffee/CECoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
